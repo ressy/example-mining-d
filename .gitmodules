@@ -1,0 +1,3 @@
+[submodule "MINING-D"]
+	path = MINING-D
+	url = https://github.com/vinnub/MINING-D.git

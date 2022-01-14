@@ -1,0 +1,16 @@
+name: example-mining-d
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Listed in MINING-D README
+  - python=3.6.5
+  - biopython
+  # The connected_component_subgraphs function used by the script was removed
+  # in version 2.4
+  - networkx<2.4
+  - joblib
+  - numpy
+  - scipy
+  # Not listed, but used for the CLI
+  - click
