@@ -59,9 +59,10 @@ Information from the Supplemental Notes about some of the parameters:
 > different numbers of D genes take part in the recombination process in each
 > species. To decide on the default m for each species, we applied MINING-D to
 > all datasets with different values of m. The results are shown in Table A.
-> *Based on the results in the table, we chose the following as the default
+> **Based on the results in the table, we chose the following as the default
 > values: human (m = 600), mouse (m= 300), rat (m = 300), rhesus macaque (m =
-> 600), Bactrian camel (m = 300), and rabbit (m = 100).*
+> 600), Bactrian camel (m = 300), and rabbit (m = 100).**
+>
 > The p-value threshold was chosen to be 10-36. This value achieves 80% power
 > from the test with a sample size of 2000 when the effect size (deviation from
 > uniform distribution) is medium, according to the definition of the medium
