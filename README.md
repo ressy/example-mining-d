@@ -78,7 +78,9 @@ Information from the Supplemental Notes about some of the parameters:
 
 ## Questions
 
- * why are candidates with motif `TACTACTAC` filtered out?
+Why are candidates with motif `TACTACTAC` filtered out?  I see some known D
+genes that have very nearly that motif already (for example IMGT's rhesus
+`IGHD2-15*01` has TAGTACTAC and `IGHD3-16*01` has TATTACTAC).
 
 [MINING-D]: https://github.com/vinnub/MINING-D
 [click]: https://palletsprojects.com/p/click/
