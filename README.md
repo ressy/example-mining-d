@@ -63,7 +63,7 @@ Information from the Supplemental Notes about some of the parameters:
 > values: human (m = 600), mouse (m= 300), rat (m = 300), rhesus macaque (m =
 > 600), Bactrian camel (m = 300), and rabbit (m = 100).**
 >
-> The p-value threshold was chosen to be 10-36. This value achieves 80% power
+> The p-value threshold was chosen to be 10e-36. This value achieves 80% power
 > from the test with a sample size of 2000 when the effect size (deviation from
 > uniform distribution) is medium, according to the definition of the medium
 > effect for chi-squared test. Having a strict (very low) threshold on the
